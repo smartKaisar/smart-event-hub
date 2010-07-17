@@ -33,7 +33,7 @@ import javax.ws.rs.core.UriInfo;
 
 /**
  *
- * @author imyousuf
+ * @author Kaisar
  */
 @Path("/events/{eventPlaceholderId}")
 public class EventResource {
